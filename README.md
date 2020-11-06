@@ -1,2 +1,2 @@
 # HelloWorld
-It prints "Hello World!" in python xd
+It prints "Hello World!" in python3 xd
